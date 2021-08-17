@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1052083550644",
+    "firebase_url": "https://mobileotpapplication.firebaseio.com",
+    "project_id": "mobileotpapplication",
+    "storage_bucket": "mobileotpapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052083550644:android:2edc6440599437fc021ae1",
+        "android_client_info": {
+          "package_name": "in.specialsoft.mobileotpapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052083550644-pt2hucajrq3spbv2h746l32o4g54r3c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtK1Q0SBHJvHZslTdDPbFhtlqiBb1t8_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052083550644-pt2hucajrq3spbv2h746l32o4g54r3c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
